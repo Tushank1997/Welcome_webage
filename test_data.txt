@@ -1,3 +1,0 @@
-File number 01.
-
-This is newly created test file.
